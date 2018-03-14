@@ -1,6 +1,6 @@
-# DONE UPDATE 5_FEBRUARY_2018
+# DONE UPDATE 14-MART_2018
 
-# 1 selfbot 2 asist
+# 1 selfbot 10 asist
 V2.1 editor_::
 Prankbots
 # PRANKBOTS
